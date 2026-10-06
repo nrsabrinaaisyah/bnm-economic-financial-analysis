@@ -1,2 +1,2 @@
-# bnm-economic-financial-analysis
-A personal project analysing the economic and financial condition of Central Bank of Malaysia using publicly available data. 
+Bank Negara Malaysia Economic & Financial Analysis
+A personal project analysing economic and financial indicators of Bank Negara Malaysia using publicly available data
