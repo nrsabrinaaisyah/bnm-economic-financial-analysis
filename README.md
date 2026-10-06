@@ -1,2 +1,3 @@
 Bank Negara Malaysia Economic & Financial Analysis
-A personal project analysing economic and financial indicators of Bank Negara Malaysia using publicly available data
+
+A personal project analysing selected Malaysian economic and financial indicators using publicly available data from Bank Negara Malaysia.
