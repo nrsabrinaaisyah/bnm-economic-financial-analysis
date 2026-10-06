@@ -1,6 +1,6 @@
 BNM Economic & Financial Analysis
 
-About This Project
+About This Project :
 
 This is a personal finance and economics project analysing selected Malaysian economic and financial indicators using publicly available data.
 The project aims to understand how key economic indicators change over time and their relevance to monetary and financial conditions in Malaysia.
